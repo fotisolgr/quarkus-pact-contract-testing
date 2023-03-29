@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: quarkus-pact-contract-testing
+  annotations:
+    github.com/project-slug: fotisolgr/quarkus-pact-contract-testing
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
