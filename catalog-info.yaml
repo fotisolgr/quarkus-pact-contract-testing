@@ -6,6 +6,10 @@ metadata:
   annotations:
     backstage.io/kubernetes-id: quarkus-pact-contract-testing
     github.com/project-slug: fotisolgr/quarkus-pact-contract-testing
+  tags:
+    - quarkus
+    - v0.1.0
+    - v0.1.1
 spec:
   type: service
   owner: user:fotisolgr
