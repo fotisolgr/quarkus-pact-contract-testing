@@ -11,6 +11,6 @@ spec:
   owner: user:fotisolgr
   lifecycle: experimental
   providesApis:
-    - fruits-api
+    - oss-core-api
   consumesApis:
     - vegetables-api
