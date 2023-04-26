@@ -12,5 +12,3 @@ spec:
   lifecycle: experimental
   providesApis:
     - oss-core-api
-  consumesApis:
-    - vegetables-api
