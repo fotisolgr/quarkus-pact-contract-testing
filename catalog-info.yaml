@@ -10,3 +10,7 @@ spec:
   type: service
   owner: user:fotisolgr
   lifecycle: experimental
+  providesApi:
+    - fruits-api
+  consumesApi:
+    - vegetables-api
