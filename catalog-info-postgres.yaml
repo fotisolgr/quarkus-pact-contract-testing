@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Resource
 metadata:
   name: postgres-db
+  annotations:
+    github.com/project-slug: fotisolgr/quarkus-pact-contract-testing
   description: Stores users details
 spec:
   type: database
