@@ -5,4 +5,4 @@ metadata:
   description: Stores user details
 spec:
   type: database
-  owner: user:fotisolgr
+  owner: artist-relations-team
