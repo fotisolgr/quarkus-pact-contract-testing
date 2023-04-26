@@ -8,9 +8,7 @@ metadata:
     github.com/project-slug: fotisolgr/quarkus-pact-contract-testing
   tags:
     - quarkus
-    - java
-    - junit
-    - cloud-native
+    - pact
 spec:
   type: service
   owner: user:fotisolgr
