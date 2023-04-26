@@ -12,3 +12,5 @@ spec:
   lifecycle: experimental
   providesApis:
     - users-api
+  consumesApi:
+    - gcloud-api
