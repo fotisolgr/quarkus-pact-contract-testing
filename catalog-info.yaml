@@ -11,4 +11,4 @@ spec:
   owner: user:fotisolgr
   lifecycle: experimental
   providesApis:
-    - oss-core-api
+    - oss-kubernetes-api
