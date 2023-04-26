@@ -1,4 +1,3 @@
----
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
@@ -21,13 +20,3 @@ spec:
     - users-api
   consumesApis:
     - gcloud-api
-    
----
-apiVersion: backstage.io/v1alpha1
-kind: Resource
-metadata:
-  name: postgres-db
-  description: Stores user details
-spec:
-  type: database
-  owner: artist-relations-team
