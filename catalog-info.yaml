@@ -5,6 +5,7 @@ metadata:
   description: quarkus pact contract testing
   annotations:
     backstage.io/kubernetes-id: quarkus-pact-contract-testing
+    backstage.io/techdocs-ref: dir:.
     github.com/project-slug: fotisolgr/quarkus-pact-contract-testing
   tags:
     - quarkus
