@@ -7,3 +7,4 @@ metadata:
 spec:
   type: database
   owner: user:fotisolgr
+  system: gemma
