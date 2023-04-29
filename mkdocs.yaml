@@ -1,5 +1,5 @@
 site_name: Quarkus pact contract testing documentation
-repo_url: https://github.com/fotisolgr/eck-deployer
+repo_url: https://github.com/fotisolgr/quarkus-pact-contract-testing
 
 nav:
   - Intro: 'index.md'
