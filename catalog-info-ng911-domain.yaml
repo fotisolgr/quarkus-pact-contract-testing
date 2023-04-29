@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
-  name: ng911
+  name: artists
   description: Everything about artists
 spec:
-  owner: user:fotisolgr
+  owner: artist-relations-team
